@@ -1,20 +1,8 @@
-# Hola! Soy Juan Fran 👋
+# Hi! I'm Juan Fran 👋
 
-Soy un estudiante de DAW en Málaga.
+I'm a Web App Desing student at C.P.I.F.P Alan Turing, Málaga.
+I enjoy learning new tech and languages, but I also enjoy learning from other fields like science.
+I've worked before as an genetic department intern at IBIS ("Biomedicine Institute"), Sevilla.
 
-
-
-<!--
-**JuanFranCM/JuanFranCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Java, HTML, CSS, JS, SQL-Server.
+- 📫 How to reach me: jfchamac@gmail.com
